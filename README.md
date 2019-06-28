@@ -4,8 +4,8 @@ This project aims to build a recommender system using user-artist rating data.
 
 ### Dataset:
 
-Number of unique users: **1,892**
-Number of unique artists: **17,631**
+Number of unique users: **1,892**  
+Number of unique artists: **17,631**  
 Number of ratings (i.e. total number of rows): **92,834**
 
 Source: http://files.grouplens.org/datasets/hetrec2011/hetrec2011-lastfm-readme.txt
