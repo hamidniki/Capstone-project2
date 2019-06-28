@@ -20,4 +20,4 @@ After splitting the data into 80% train and 20% test sets, 3 versions of the eng
 
 ### Final report:
 
-### Final presentation
+### Final presentation:
