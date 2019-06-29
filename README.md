@@ -17,7 +17,10 @@ After splitting the data into 80% train and 20% test sets, 3 versions of the eng
 - **Pearson similarity:** Used pearson correlation coefficient to assess similarity between two users' rating profiles: **RMSE = 2.83**
 
 ### Code:
+https://github.com/hamidniki/Capstone-project2/blob/master/Recommender-Engine-Using-A-Last.fm-Music-Dataset.ipynb
 
 ### Final report:
+https://github.com/hamidniki/Capstone-project2/blob/master/Report-Capstone-Project2.pdf
 
 ### Final presentation:
+https://github.com/hamidniki/Capstone-project2/blob/master/Recommender-Engine-Using-Last.fms-Artist-Rating-Data.pdf
